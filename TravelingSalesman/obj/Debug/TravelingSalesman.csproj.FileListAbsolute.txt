@@ -1,0 +1,10 @@
+C:\Users\Ed\Source\Repos\TravelingSalesman\TravelingSalesman\obj\Debug\TravelingSalesman.csprojAssemblyReference.cache
+C:\Users\Ed\Source\Repos\TravelingSalesman\TravelingSalesman\obj\Debug\TravelingSalesman.Form1.resources
+C:\Users\Ed\Source\Repos\TravelingSalesman\TravelingSalesman\obj\Debug\TravelingSalesman.Properties.Resources.resources
+C:\Users\Ed\Source\Repos\TravelingSalesman\TravelingSalesman\obj\Debug\TravelingSalesman.csproj.GenerateResource.cache
+C:\Users\Ed\Source\Repos\TravelingSalesman\TravelingSalesman\obj\Debug\TravelingSalesman.csproj.CoreCompileInputs.cache
+C:\Users\Ed\Source\Repos\TravelingSalesman\TravelingSalesman\bin\Debug\TravelingSalesman.exe.config
+C:\Users\Ed\Source\Repos\TravelingSalesman\TravelingSalesman\bin\Debug\TravelingSalesman.exe
+C:\Users\Ed\Source\Repos\TravelingSalesman\TravelingSalesman\bin\Debug\TravelingSalesman.pdb
+C:\Users\Ed\Source\Repos\TravelingSalesman\TravelingSalesman\obj\Debug\TravelingSalesman.exe
+C:\Users\Ed\Source\Repos\TravelingSalesman\TravelingSalesman\obj\Debug\TravelingSalesman.pdb
